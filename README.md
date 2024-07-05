@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Kushwaha</h1>
+<h1 align="center">Hi 👋, I'm Suyash Kumar</h1>
 <p align="center">
 <a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&duration=2000&width=380&height=45&lines=Machine+Learning;Deep+Learning;Data+Science;Natural+Language+Processing;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
 </p>
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akash_iiitd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash_iiitd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akash-kushwaha-423588225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-kushwaha-423588225" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/akash-kushwaha-423588225](https://www.linkedin.com/in/suyash-kumar-470693240/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-kushwaha-423588225" height="30" width="40" /></a>
 <a href="https://kaggle.com/akash676kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akash676kushwaha" height="30" width="40" /></a>
 <a href="https://instagram.com/akash_iiitd14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_iiitd14" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akash21514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akash21514" height="30" width="40" /></a>
