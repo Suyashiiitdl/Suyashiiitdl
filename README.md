@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Suyash Kumar</h1>
 <p align="center">
-<a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&duration=2000&width=380&height=45&lines=+Learning;Machine+Learning;Android+Development;Web+Development;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
+<a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&duration=2000&width=380&height=45&lines=Data+Structures+Algorithms;Machine+Learning;Android+Development;Web+Development;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skyscrappers&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="skyscrappers"/>&nbsp;<a href="https://twitter.com/akash_iiitd" target="blank"><img src="https://img.shields.io/twitter/follow/akash_iiitd?logo=twitter&style=for-the-badge" alt="akash_iiitd" /></a> </p>
 
 - 🔭 I was Research Intern at [SAG, DRDO ]([https://www.adagiovr.com/](https://www.drdo.gov.in/drdo/labs-and-establishments/scientific-analysis-group-sag)) & did project on Applied Cryptography
-- 💬 Ask me about **Full Stack Developer/Machine Learning/Finance/**
+- 💬 Ask me about **Full Stack Developer/Machine Learning/Finance**
 - 📫 How to reach me **suyash21293@iiitd.ac.in**
 
 <h3 align="left">Connect with me:</h3>
