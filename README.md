@@ -3,18 +3,17 @@
 <a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&duration=2000&width=380&height=45&lines=Data+Structures+Algorithms;Machine+Learning;Android+Development;Web+Development;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=skyscrappers&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="skyscrappers"/>&nbsp;<a href="https://www.linkedin.com/in/suyash-kumar-470693240/" target="blank"><img src="https://img.shields.io/twitter/follow/akash_iiitd?logo=twitter&style=for-the-badge" alt="Suyash" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=skyscrappers&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="skyscrappers"/>&nbsp;<a href="https://www.linkedin.com/in/suyash-kumar-470693240/" target="blank"><img src="https://img.shields.io/twitter/follow/Suyash?logo=twitter&style=for-the-badge" alt="Suyash" /></a> </p>
 
-- 🔭 I was Research Intern at [SAG, DRDO ]([https://www.adagiovr.com/](https://www.drdo.gov.in/drdo/labs-and-establishments/scientific-analysis-group-sag)) & did project on Applied Cryptography
+- 🔭 I was Research Intern at [SAG, DRDO ](https://www.drdo.gov.in/drdo/labs-and-establishments/scientific-analysis-group-sag) where did a project on Applied Cryptography
 - 💬 Ask me about **Full Stack Developer/Machine Learning/Finance**
 - 📫 How to reach me **suyash21293@iiitd.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/suyash-kumar-470693240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-kushwaha-423588225" height="30" width="40" /></a>
-
-<a href="https://kaggle.com/Suyashiiitd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akash676kushwaha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suyash-kumar-470693240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash-kumar-470693240" height="30" width="40" /></a>
+<a href="https://kaggle.com/Suyashiiitd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Suyashiiitd" height="30" width="40" /></a>
 <a href="https://instagram.com/suyash._003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_iiitd14" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/suycs15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akash_iiitd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/suyash_kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash2021514" height="30" width="40" /></a>
