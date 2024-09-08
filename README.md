@@ -6,8 +6,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skyscrappers&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="skyscrappers"/>&nbsp;<a href="https://www.linkedin.com/in/suyash-kumar-470693240/" target="blank"><img src="https://img.shields.io/twitter/follow/Suyash?logo=twitter&style=for-the-badge" alt="Suyash" /></a> </p>
 
 - 🔭 I was Research Intern at [SAG, DRDO ](https://www.drdo.gov.in/drdo/labs-and-establishments/scientific-analysis-group-sag) where did a project on Applied Cryptography
-- 💬 Ask me about **Full Stack Developer/Machine Learning/Finance**
-- 📫 How to reach me **suyash21293@iiitd.ac.in**
+- 💬 Ask me about **Full Stack Developemwnt/Machine Learning/Finance**
+- 📫 Reach me at **suyash3031@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
