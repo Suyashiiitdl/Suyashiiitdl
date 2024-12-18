@@ -5,9 +5,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skyscrappers&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="skyscrappers"/>&nbsp;<a href="https://www.linkedin.com/in/suyash-kumar-470693240/" target="blank"><img src="https://img.shields.io/twitter/follow/Suyash?logo=twitter&style=for-the-badge" alt="Suyash" /></a> </p>
 
-- 🔭 I was Research Intern at [SAG, DRDO ](https://www.drdo.gov.in/drdo/labs-and-establishments/scientific-analysis-group-sag) and contributed in Applied Cryptography Domain Project
+- Currently am Undergraduate Researcher @ IIIT Delhi, working on Deep Learning Based Image Generation models for Neural Engineering Applications.
 - 💬 Ask me about **Full Stack Development/Machine Learning/Deep Learning/Finance**
 - 📫 Reach me at **suyash3031@gmail.com**
+- 🔭 I was Research Intern at [SAG, DRDO ](https://www.drdo.gov.in/drdo/labs-and-establishments/scientific-analysis-group-sag) and worked on Applied Cryptography Domain (Error Correcting Codes).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
