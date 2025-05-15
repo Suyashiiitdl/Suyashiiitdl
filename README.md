@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suyash Kumar</h1>
 <p align="center">
-<a href="https://github.com/Suyashiiitdl" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&duration=2000&width=380&height=45&lines=Nice+To+Meet+You+🙃;Data+Structures+Algorithms;Machine+Learning;Backend+Development;Deep+Learning+Cryptography;&style=bold&center=true" alt="taking time to load" /></a>
+<a href="https://github.com/Suyashiiitdl" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&duration=2000&width=380&height=45&lines=Nice+To+Meet+You+🙃;Data+Structures+Algorithms;Machine+Learning;Backend+Development;Deep+Learning;Cryptography;&style=bold&center=true" alt="taking time to load" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skyscrappers&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="skyscrappers"/>&nbsp;<a href="https://www.linkedin.com/in/suyash-kumar-470693240/" target="blank"><img src="https://img.shields.io/twitter/follow/Suyash?logo=twitter&style=for-the-badge" alt="Suyash" /></a> </p>
